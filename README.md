@@ -16,3 +16,6 @@ Language Model - smallcloudai/Refact-1_6B-fim
 Text To Speech
 "microsoft/speecht5_tts"
 https://huggingface.co/microsoft/speecht5_tts
+
+
+![gradio](https://github.com/bwilkie/ChatAI/assets/40703571/d19f981e-1cd0-4bdd-b3ce-36311112e964)
