@@ -17,5 +17,4 @@ Text To Speech
 "microsoft/speecht5_tts"
 https://huggingface.co/microsoft/speecht5_tts
 
-
-![gradio](https://github.com/bwilkie/ChatAI/assets/40703571/d19f981e-1cd0-4bdd-b3ce-36311112e964)
+![gradio](https://github.com/bwilkie/ChatAI/assets/40703571/6a72d855-bd1c-4302-8e6a-7bedf610852b)
