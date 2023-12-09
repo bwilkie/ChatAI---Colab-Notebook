@@ -1,5 +1,5 @@
 # ChatAI
-Code for interactive language models
+Code for an audio to audio LLM, build with Gradio WebUI.
 
 For anyone interested in talking to an AI Large Language Model in your browser.
 
