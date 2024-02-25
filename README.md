@@ -1,5 +1,6 @@
 # ChatAI
-Code for an audio to audio LLM, built with Gradio WebUI.
+
+An interactive notebook with audio to audio LLM, built with Gradio WebUI.
 
 For anyone interested in talking to an AI Large Language Model in your browser.
 
